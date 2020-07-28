@@ -1,0 +1,2 @@
+# ffmpeg_player
+使用ffmpeg进行解码操作，使用opencv进行画面显示，使用alsa进行声音播放
